@@ -1,0 +1,19 @@
+mkdir -p run
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for sixty seconds." -o run/run60seconds.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for ninety seconds." -o run/run90seconds.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for three minutes." -o run/run3minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for five minutes." -o run/run5minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for six minutes." -o run/run6minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for seven minutes." -o run/run7minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for eight minutes." -o run/run8minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for ten minutes." -o run/run10minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 12 minutes." -o run/run12minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 14 minutes." -o run/run14minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 16 minutes." -o run/run16minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 18 minutes." -o run/run18minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 20 minutes." -o run/run20minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 22 minutes." -o run/run22minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 24 minutes." -o run/run24minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 26 minutes." -o run/run26minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 30 minutes." -o run/run30minutes.wav
+say --data-format=LEI16@44100 --channels=2 -v Daniel "Run for 60 minutes." -o run/run60minutes.wav
