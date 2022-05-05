@@ -1,0 +1,11 @@
+brew tap homebrew-ffmpeg/ffmpeg
+brew install homebrew-ffmpeg/ffmpeg/ffmpeg
+brew install automake fdk-aac git lame libass libtool libvorbis libvpx opus sdl shtool texi2html theora wget x264 x265 xvid nasm
+git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
+cd ffmpeg
+./configure  --prefix=/usr/local --enable-libopenmpt --enable-gpl --enable-nonfree --enable-libass \
+--enable-libfdk-aac --enable-libfreetype --enable-libmp3lame \
+--enable-libtheora --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libx265 --enable-libopus --enable-libxvid \
+--samples=fate-suite/
+make
+sudo make install
