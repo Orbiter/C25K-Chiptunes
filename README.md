@@ -34,16 +34,6 @@ Track 21    / w07d03 [26] -> run 26
 Track 22    / w08d01 [28] -> run  8 - walk 1 - run 12 - walk 1 - run 8
 Track 23    / w08d02 [28] -> run 14 - walk 1 - run 14
 Track 24    / w08d03 [30] -> run 30
-Track 25    / w09d01 [32] -> repeat 4x: run  8 - walk 1
-Track 26    / w09d02 [36] -> repeat 4x: run  9 - walk 1
-Track 27    / w09d03 [40] -> repeat 4x: run 10 - walk 1
-Track 28-30 / w10    [42] -> repeat 3x: run 14 - walk 1
-Track 31-33 / w11    [48] -> repeat 3x: run 16 - walk 1
-Track 34-36 / w12    [52] -> repeat 3x: run 18 - walk 1
-Track 37    / w13d01 [44] -> repeat 2x: run 22 - walk 1
-Track 38    / w13d02 [52] -> repeat 2x: run 26 - walk 1
-Track 39    / w13d03 [60] -> repeat 2x: run 30 - walk 1
-Track 40-42 / w14    [60] -> run 60
 ```
 
 ## WORKOUT SOURCE
@@ -57,8 +47,6 @@ this is slightly modified from the original schedule:
 - more variation in week 7-8
 - last walk sequence in the last period (if any) is omitted
 - the 5K goal is reached within eight weeks instead of nine
-
-The C210K workout is inspired by various internet sources.
 
 
 ## MUSIC SOURCE
