@@ -43,7 +43,7 @@ ffmpeg -y -i "music/keygen-music/music/SnD/SnD - IncrediMail for Office Generic 
 sox temp/w05d02-running-raw.wav temp/w05d02-running-raw.wav temp/w05d02-running-raw.wav temp/w05d02-running-raw.wav temp/w05d02-running-raw.wav temp/w05d02-running-raw.wav temp/w05d02-running-big.wav
 ffmpeg -y -i temp/w05d02-running-big.wav -ss 00:00:00.000 -t 480 -acodec copy temp/w05d02-running-480.wav
 sox \
-    tts/week/week05.wav tts/day/day01.wav tts/say/start.wav \
+    tts/week/week05.wav tts/day/day02.wav tts/say/start.wav \
     temp/warmup.wav \
     tts/intro/w05d02-intro.wav \
     effect/introbeep.wav tts/run/run8minutes.wav temp/w05d02-running-480.wav effect/introbeep.wav tts/walk/walk5minutes.wav temp/w05-walking-300.wav \
