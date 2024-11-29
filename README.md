@@ -53,7 +53,7 @@ this is slightly modified from the original schedule:
 
 The workout is enriched with music taken from keygen and chiptune sources:
 `https://github.com/sxiii/keygen-music.git` and
-`http://ftp.pigwa.net/stuff/mirror/chiptunes.org/chiptunes-full-000825.tar.gz`
+`https://web.archive.org/web/20070306104331/http://www.chiptunes.org/files/chiptunes-full-000825.tar.gz`
 
 The selection of the tracks from those collections is inspired by
 `https://infinitode.prineside.com/`
